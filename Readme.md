@@ -1,7 +1,9 @@
 # Личный проект «Седона»
 
 * Студент: [Дарья Воронина](https://up.htmlacademy.ru/htmlcss-individual/3/user/2709455).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
+* Сайт: [Мой проект Седона](https://dariavoronina25.github.io/2709455-sedona-3/).
+
 
 ---
 
